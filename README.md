@@ -17,6 +17,7 @@ LocalAccountTokenFilterPolicy - Registry, RemoteRegistry - Service, WMI - Servic
 ## Upcoming Updates
 
 Another script that will be used to quickly revert changed settings, and other general improvements. -DONE!
+
 Not sure yet... Probably an accurate way to automate to revert the firewall change (file and printer sharing) as it's done manually at the moment.
 
 ## Advisory
